@@ -1,7 +1,26 @@
-<p align="center">
-  <img src="timelineiq.png" alt="Timeline IQ Logo" width="400" style="border-radius: 20px; box-shadow: 0 4px 12px rgba(0,0,0,0.3);"/>
-</p>
-                                                                          # Timeline IQ - Project Time Estimator
+<div align="center">
+  <img src="timelineiq.png" alt="Timeline IQ Logo" width="300" style="border-radius: 20px;"/>
+  
+  <h1>⚡ Timeline IQ</h1>
+  <p><strong>Smart Project Time Estimation & Analytics</strong></p>
+  
+  <p>
+    <img src="https://img.shields.io/badge/.NET-8.0-512BD4?style=for-the-badge&logo=dotnet" alt=".NET 8"/>
+    <img src="https://img.shields.io/badge/WPF-Windows-0078D4?style=for-the-badge&logo=windows" alt="WPF"/>
+    <img src="https://img.shields.io/badge/License-GPL--3.0-blue?style=for-the-badge" alt="License"/>
+    <img src="https://img.shields.io/badge/Version-1.0.0-success?style=for-the-badge" alt="Version"/>
+  </p>
+  
+  <p>
+    <a href="#features">Features</a> •
+    <a href="#installation">Installation</a> •
+    <a href="#usage">Usage</a> •
+    <a href="#contributing">Contributing</a> •
+    <a href="#license">License</a>
+  </p>
+</div>
+
+---
 
 **Timeline IQ** is a modern, feature-rich WPF desktop application for tracking and analyzing project time estimates. Built with .NET 8, it helps you improve your estimation accuracy over time through detailed analytics and bias detection.
 
