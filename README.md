@@ -106,7 +106,7 @@
 ### Option 2: Build from Source
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/Timeline-IQ.git
+git clone https://github.com/santifour/Timeline-IQ.git
 cd Timeline-IQ
 
 # Restore dependencies
@@ -227,8 +227,9 @@ This project is licensed under the GPL3 License - see the [LICENSE](LICENSE) fil
 
 ## 📧 Contact
 
-**Developer**: Fatih Durdu  
-**Project Link**: [https://github.com/YOUR_USERNAME/Timeline-IQ](https://github.com/YOUR_USERNAME/Timeline-IQ)
+**Developer**: Fatih (Santi) Mehmet
+**E-Mail**: santidadandres@gmail.com
+**Project Link**: [https://github.com/santifour/Timeline-IQ](https://github.com/santifour/Timeline-IQ)
 
 ---
 
