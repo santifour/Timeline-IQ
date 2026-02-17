@@ -27,6 +27,7 @@
 ---
 
 ## ✨ Features
+<a id="features"></a>
 
 ### 📊 **Advanced Analytics Dashboard**
 - **Accuracy Score**: Track your overall estimation accuracy (0-100)
@@ -95,6 +96,7 @@
 ---
 
 ## 📦 Installation
+<a id="installation"></a>
 
 ### Option 1: Download Pre-built Release
 1. Download the latest release from [Releases](../../releases)
@@ -123,6 +125,7 @@ dotnet publish -c Release -r win-x64 --self-contained -p:PublishSingleFile=true 
 ---
 
 ## 🚀 Usage
+<a id="usage"></a>
 
 ### Adding a Project
 1. Fill in the project details in the right panel:
@@ -184,6 +187,7 @@ The application uses SQLite for data storage. The database file is automatically
 ---
 
 ## 🤝 Contributing
+<a id="contributing"></a>
 
 Contributions are welcome! Here's how you can help:
 
@@ -196,6 +200,7 @@ Contributions are welcome! Here's how you can help:
 ---
 
 ## 📝 License
+<a id="license"></a>
 
 This project is licensed under the GPL3 License - see the [LICENSE](LICENSE) file for details.
 
